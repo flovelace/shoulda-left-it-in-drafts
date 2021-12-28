@@ -1,0 +1,24 @@
+{
+  "name": "shoulda-left-it-in-drafts",
+  "version": "1.0.0",
+  "description": "A social media api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flovelace/shoulda-left-it-in-drafts.git"
+  },
+  "author": "Fairfax Lovelace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flovelace/shoulda-left-it-in-drafts/issues"
+  },
+  "homepage": "https://github.com/flovelace/shoulda-left-it-in-drafts#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  }
+}
